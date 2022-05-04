@@ -1,0 +1,5 @@
+- Hi, I’m Pratham Vishwakarma.
+- I’m a student at IIT Kharagpur in the department of Mechanical engineering.
+- I'm interested in Rbotics, Machine learning and Electronics.
+- I’m looking to collaborate on anything related to Robotics, AI and anything that fits in my interests.
+- How to reach me: Email: prathamv0812@gmail.com
